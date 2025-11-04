@@ -9,4 +9,4 @@ Machine Learning App con Streamlit
 
 🚀 2. Cómo ejecutar el proyecto localmente
 * Haga click en el link de la aplicacion subida en streamlit cloud.
-* Link: 
+* Link: https://ml-sesion7-cvfa.streamlit.app/
