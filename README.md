@@ -7,6 +7,7 @@ Machine Learning App con Streamlit
 * En la consola del script "machine_learning.py" debe poner: streamlit run machine_learning.py
 
 
+
 🚀 Opción 2. Link directo en internet
 * Haga click en el link de la aplicacion subida en streamlit cloud.
 * Link: https://ml-sesion7-cvfa.streamlit.app/
