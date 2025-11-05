@@ -21,7 +21,7 @@ st.markdown("""
         text-align: center; font-size: 32px; font-weight: 700; color: #1F4172; 
     }
     .sub { 
-        font-size: 20px; color: #1F6E8C; margin-top: 10px;
+        font-size: 20px; color: #FFF200; margin-top: 10px;
     }
     .section-title { 
         font-size: 22px; font-weight: 700; margin-top: 25px; color: #1F6E8C; 
