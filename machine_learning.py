@@ -36,6 +36,7 @@ st.markdown("""
 st.markdown('<h1 class="title">Procesamiento de Datasets en Machine Learning</h1>', unsafe_allow_html=True)
 opcion = st.radio("Seleccione una vista:", ["Ejercicio 1", "Ejercicio 2", "Ejercicio 3"], horizontal=True)
 
+st.markdown('<h2 class="sub">Alumno: Chávez Vidal, Felix Andreé</h2>', unsafe_allow_html=True)
 
 if opcion == "Ejercicio 1":
     st.markdown('<h3 class="section-title">1️⃣ Ejercicio 1: Análisis del Dataset “Titanic”</h3>', unsafe_allow_html=True)
