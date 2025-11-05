@@ -21,7 +21,7 @@ st.markdown("""
         text-align: center; font-size: 32px; font-weight: 700; color: #1F4172; 
     }
     .sub { 
-        font-size: 9px; color: #3C4A60; margin-top: -10px;
+        font-size: 12px; color: #3C4A60; margin-top: -10px;
     }
     .section-title { 
         font-size: 22px; font-weight: 700; margin-top: 25px; color: #1F6E8C; 
@@ -35,7 +35,7 @@ st.markdown("""
 
 st.markdown('<h1 class="title">Procesamiento de Datasets en Machine Learning</h1>', unsafe_allow_html=True)
 
-st.markdown('<h2 class="sub">🧑‍🎓 Alumno: Chávez Vidal, Felix Andreé</h2>', unsafe_allow_html=True)
+st.markdown('<div class="sub">🧑‍🎓 Alumno: Chávez Vidal, Felix Andreé</div>', unsafe_allow_html=True)
 st.markdown('<br><br><div class="box"></div>', unsafe_allow_html=True)
 
 opcion = st.radio("Seleccione una vista:", ["Ejercicio 1", "Ejercicio 2", "Ejercicio 3"], horizontal=True)
